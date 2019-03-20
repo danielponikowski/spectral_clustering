@@ -1,5 +1,5 @@
 # Spectral Clustering
-My own implementation of spectral clustering algorithm using Rcpp elements.
+My own implementation of spectral clustering algorithm on R using Rcpp elements.
 
 ### Mnn(X,M):
 
